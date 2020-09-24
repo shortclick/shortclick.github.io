@@ -1,2 +1,0 @@
-# shortclick.github.io
-ShortClick
